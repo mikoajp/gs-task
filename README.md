@@ -1,4 +1,7 @@
 # Service Manager - Recruitment Task
+<img width="1862" height="952" alt="image" src="https://github.com/user-attachments/assets/3c74bd9c-3d65-48be-8f12-6127e3db0403" />
+<img width="1858" height="950" alt="image" src="https://github.com/user-attachments/assets/a92188a3-02d2-4223-9fe5-4c8853efe9b4" />
+
 
 A robust message processing system built with **Laravel 11** and **PHP 8.4**, designed to classify and manage service inspections and failure reports.
 
