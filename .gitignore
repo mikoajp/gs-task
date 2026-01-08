@@ -17,3 +17,10 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+
+# Generated reports
+/inspections.json
+/failure_reports.json
+/unprocessed_messages.json
+/public/inspections.json
+/public/failure_reports.json
